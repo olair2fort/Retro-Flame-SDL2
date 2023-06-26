@@ -1,0 +1,14 @@
+﻿  Game.cpp
+C:\Users\Oliver\source\repos\Deployment\Deployment\Effect.h(24,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Oliver\source\repos\Deployment\Deployment\Effect.h(50,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oliver\source\repos\Deployment\Deployment\Effect.h(57,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oliver\source\repos\Deployment\Deployment\Effect.h(60,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oliver\source\repos\Deployment\Deployment\Effect.h(61,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oliver\source\repos\Deployment\Deployment\Effect.h(62,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oliver\source\repos\Deployment\Deployment\Effect.h(63,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oliver\source\repos\Deployment\Deployment\Game.cpp(70,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oliver\source\repos\Deployment\Deployment\Game.cpp(71,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oliver\source\repos\Deployment\Deployment\Game.cpp(72,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oliver\source\repos\Deployment\Deployment\Game.cpp(73,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oliver\source\repos\Deployment\Deployment\Game.cpp(129,8): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Deployment.vcxproj -> C:\Users\Oliver\source\repos\Deployment\Debug\Deployment.exe
